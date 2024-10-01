@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+wheels/
+
+# Environment variables and settings
+.env
+*.env
+
+# Flask instance folder
+instance/
+
+# Logs
+*.log
+logs/
+
+# Virtual environment
+venv/
+ENV/
+.venv/
+.env/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile
+Pipfile.lock
+
+# poetry
+poetry.lock
+poetry.toml
+
+# Local development and production files
+*.local
+*.development
+*.production
+
+# VSCode settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+coverage.xml
+*.lcov
+
+# pytest cache
+.pytest_cache/
+
+# Unit test / coverage reports
+.tox/
+.nox/
+coverage/
+
+# mypy
+.mypy_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# SQL database files
+*.sqlite3
+
+# Local IDE files
+*.idea/
+.idea/
+
+# Temporary files
+*.swp
+*~
